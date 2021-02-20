@@ -1,17 +1,10 @@
 package com.git.demos;
 
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Hi, my name is git and i love version");
-
-
-
-
-
-
-        
-        System.out.println("hi brooo");
+	// write your code here;
     }
 }
