@@ -10,7 +10,3 @@ Task 2: Feature B
 - Complete first subtask of Task 2
 
 Task 2 complete / Feature B is done!
-
-Working on Task 3: Feature C
-
-1. First task for task 3 complete
