@@ -3,3 +3,5 @@ Status:
 
 Task 1: Feature A 
 - Complete first subtask of Task 1
+
+Task 1 complete / Feature A is dont
