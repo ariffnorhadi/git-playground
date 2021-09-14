@@ -8,3 +8,5 @@ Task 1 complete / Feature A is dont
 
 Task 2: Feature B
 - Complete first subtask of Task 2
+
+Task 2 complete / Feature B is done!
