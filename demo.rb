@@ -3,3 +3,7 @@ def say_hi
 end
 
 say_hi
+
+one = 1
+
+puts one
